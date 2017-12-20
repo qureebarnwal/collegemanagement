@@ -1,1 +1,2 @@
-# collegemanagement
+Author: Quree Kumari
+xyz...
